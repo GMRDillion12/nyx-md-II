@@ -23,7 +23,7 @@ module.exports = {
             const uptime = formatUptime(uptimeMs);
 
             // Count all commands in all folders for main menu
-            const allFolders = ["general","group","interactions","animesfw","animensfw","sfwgif","nsfwgif","downloaders","fun","tools"];
+            const allFolders = ["general","group","interactions","animesfw","downloaders","fun","tools"];
             let totalCommands = 0;
             for (const folder of allFolders) {
                 const folderPath = path.join(__dirname, folder);
