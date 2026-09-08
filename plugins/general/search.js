@@ -52,7 +52,7 @@ module.exports = {
 
         if (!query) {
             return sock.sendMessage(chat, {
-                text: `❌ Please provide a search query.\n\nExamples:\n.search who is Neymar Jr\n.search what is DNS\n.search latest Barcelona news`
+                text: `❌ Please provide a search query.\n\nExamples:\n.search what is water\n.search How old is the earth`
             }, { quoted: m });
         }
 
