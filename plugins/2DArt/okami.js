@@ -1,15 +1,15 @@
 const axios = require("axios");
 
 module.exports = {
-    command: ["ssenko"],
+    command: ["okami"],
     category: "animesfw",
-    description: "Get a random SFW senko image",
+    description: "Get a random okami image",
 
     execute: async (sock, m) => {
         try {
-            await sock.sendMessage(m.chat, { text: "🩷 Loading your senko..." });
+            await sock.sendMessage(m.chat, { text: "🩷 Loading okami image..." });
 
-            const response = await axios.get("https://api.purrbot.site/v2/img/sfw/senko/img", {
+            const response = await axios.get("https://api.purrbot.site/v2/img/sfw/okami/img", {
                 timeout: 10000,
             });
 
@@ -20,7 +20,7 @@ module.exports = {
 
             await sock.sendMessage(m.chat, {
                 image: { url: imgUrl },
-                caption: "🩷 Here's your random senko! Enjoy 💕",
+                caption: "🩷 Here's your random okami! Enjoy 💕",
             }, { quoted: m });
 
         } catch (err) {

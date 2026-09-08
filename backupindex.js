@@ -192,7 +192,6 @@ async function startNyx() {
                             hour: "2-digit", minute: "2-digit", second: "2-digit", timeZone: "Africa/Lagos"
                         });
 
-                        const currentPassword = require('./lib/nsfwAuth').getPassword();
                         const message = `
 ╭━━━★彡 NYX-MD CONNECTED 彡★━━━╮
 ┃
@@ -202,7 +201,6 @@ async function startNyx() {
 ┃ 👤 Owner: ${config.ownerName}
 ┃ 📱 Number: ${botNumber}
 ┃ ⏰ Time: ${timeString}
-┃ 🔐 NSFW Password: ${currentPassword}
 ┃
 ┃ 💡 *Available Commands:*
 ┃ • .menu - View submenus

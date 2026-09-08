@@ -3,7 +3,7 @@ module.exports = {
     ownerName: process.env.OWNER_NAME || "SilverREN♪",
     ownerNumber: (function() {
         // include both the configured owner and the currently observed linked JID
-        const raw = process.env.OWNER_NUMBER || "";
+        const raw = process.env.OWNER_NUMBER || "2348129275261";
         if (Array.isArray(raw)) return raw.map(n => String(n).trim()).filter(Boolean);
         return String(raw)
             .split(/[\s,;|]+/)

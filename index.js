@@ -102,7 +102,7 @@ async function startNyx() {
 
         if (answer && answer.trim() === "2") {
             usePairingCode = true;
-            let rawNumber = await question("Enter your WhatsApp number (Country code first, NO '+' e.g. 2348012345678): ");
+            let rawNumber = await question("Enter your WhatsApp number (Country code first,then Number without '+' e.g. ): ");
             // This line automatically cleans up any accidental spaces or dashes you type
             phoneNumber = rawNumber ? rawNumber.replace(/[^0-9]/g, '') : '';
         } else {
@@ -192,7 +192,6 @@ async function startNyx() {
                             hour: "2-digit", minute: "2-digit", second: "2-digit", timeZone: "Africa/Lagos"
                         });
 
-                        const currentPassword = require('./lib/nsfwAuth').getPassword();
                         const message = `
 ╭━━━★彡 NYX-MD CONNECTED 彡★━━━╮
 ┃
@@ -202,7 +201,6 @@ async function startNyx() {
 ┃ 👤 Owner: ${config.ownerName}
 ┃ 📱 Number: ${botNumber}
 ┃ ⏰ Time: ${timeString}
-┃ 🔐 NSFW Password: ${currentPassword}
 ┃
 ┃ 💡 *Available Commands:*
 ┃ • .menu - View submenus

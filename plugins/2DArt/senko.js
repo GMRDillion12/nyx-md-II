@@ -1,39 +1,26 @@
 const axios = require("axios");
 
 module.exports = {
-    command: ["sselfies"],
+    command: ["senko"],
     category: "animesfw",
-    description: "Get a random SFW selfies image",
+    description: "Get a random senko image",
 
     execute: async (sock, m) => {
         try {
-            await sock.sendMessage(m.chat, { text: "🩷 Loading your selfies..." });
+            await sock.sendMessage(m.chat, { text: "🩷 Loading your senko..." });
 
-            const response = await axios.get("https://api.waifu.im/images", {
-                params: {
-                    includedTags: "selfies",
-                    isNsfw: false,
-                },
+            const response = await axios.get("https://api.purrbot.site/v2/img/sfw/senko/img", {
                 timeout: 10000,
             });
 
-            const items = response?.data?.items;
-            if (!Array.isArray(items) || items.length === 0 || !items[0]?.url) {
+            const imgUrl = response?.data?.link || response?.data?.url || (Array.isArray(response?.data?.items) && response.data.items[0]?.url);
+            if (!imgUrl) {
                 throw new Error("No valid image returned from API");
             }
 
-            const imgUrl = items[0].url;
-
-            const mediaResponse = await axios.get(imgUrl, {
-                responseType: "arraybuffer",
-                timeout: 15000,
-            });
-
-            const buffer = mediaResponse.data;
-
             await sock.sendMessage(m.chat, {
-                image: buffer,
-                caption: "🩷 Here's your random selfies! Enjoy 💕",
+                image: { url: imgUrl },
+                caption: "🩷 Here's your random senko! Enjoy 💕",
             }, { quoted: m });
 
         } catch (err) {
