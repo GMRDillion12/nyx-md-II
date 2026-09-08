@@ -1,0 +1,10 @@
+{
+  "enabled": false,
+  "mode": "all",
+  "groups": {
+    "120363409266052042@g.us": {
+      "enabled": true,
+      "mode": "all"
+    }
+  }
+}

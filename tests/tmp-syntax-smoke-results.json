@@ -1,0 +1,251 @@
+[
+  {
+    "file": "angry.js",
+    "action": "angry",
+    "fetchOk": {
+      "ok": true,
+      "mimetype": "video/mp4",
+      "len": 95818
+    }
+  },
+  {
+    "file": "bite.js",
+    "action": "bite",
+    "fetchOk": {
+      "ok": true,
+      "mimetype": "video/mp4",
+      "len": 83301
+    }
+  },
+  {
+    "file": "blush.js",
+    "action": "blush",
+    "fetchOk": {
+      "ok": true,
+      "mimetype": "video/mp4",
+      "len": 198421
+    }
+  },
+  {
+    "file": "cuddle.js",
+    "action": "cuddle",
+    "fetchOk": {
+      "ok": true,
+      "mimetype": "video/mp4",
+      "len": 387595
+    }
+  },
+  {
+    "file": "dance.js",
+    "action": "dance",
+    "fetchOk": {
+      "ok": true,
+      "mimetype": "video/mp4",
+      "len": 154780
+    }
+  },
+  {
+    "file": "feed.js",
+    "action": "feed",
+    "fetchOk": {
+      "ok": true,
+      "mimetype": "video/mp4",
+      "len": 304950
+    }
+  },
+  {
+    "file": "fetchGif.js",
+    "action": "fetchgif",
+    "fetchOk": {
+      "ok": false,
+      "error": "fetchGif failed for fetchgif: https://nekos.best/api/v2/search?query=anime%20fetchgif&type=2&category=fetchgif&amount=1 -> 400 Request failed with status code 400 | https://nekos.best/api/v2/fetchgif -> 404 Request failed with status code 404 | https://api.waifu.pics/sfw/fetchgif -> ERR getaddrinfo ENOTFOUND api.waifu.pics | https://api.purrbot.site/v2/img/sfw/fetchgif/gif -> 403 Request failed with status code 403 | https://nekos.life/api/v2/img/fetchgif -> 500 Request failed with status code 500"
+    }
+  },
+  {
+    "file": "handhold.js",
+    "action": "handhold",
+    "fetchOk": {
+      "ok": true,
+      "mimetype": "video/mp4",
+      "len": 86553
+    }
+  },
+  {
+    "file": "highfive.js",
+    "action": "highfive",
+    "fetchOk": {
+      "ok": true,
+      "mimetype": "video/mp4",
+      "len": 129444
+    }
+  },
+  {
+    "file": "hug.js",
+    "action": "hug",
+    "fetchOk": {
+      "ok": true,
+      "mimetype": "video/mp4",
+      "len": 210623
+    }
+  },
+  {
+    "file": "kill.js",
+    "action": "kill",
+    "fetchOk": {
+      "ok": false,
+      "error": "fetchGif failed for kill: https://nekos.best/api/v2/search?query=anime%20kill&type=2&category=kill&amount=1 -> 400 Request failed with status code 400 | https://nekos.best/api/v2/kill -> 404 Request failed with status code 404 | https://api.waifu.pics/sfw/kill -> ERR getaddrinfo ENOTFOUND api.waifu.pics | https://api.purrbot.site/v2/img/sfw/kill/gif -> 403 Request failed with status code 403 | https://nekos.life/api/v2/img/kill -> 500 Request failed with status code 500"
+    }
+  },
+  {
+    "file": "kiss.js",
+    "action": "kiss",
+    "fetchOk": {
+      "ok": true,
+      "mimetype": "video/mp4",
+      "len": 109812
+    }
+  },
+  {
+    "file": "laugh.js",
+    "action": "laugh",
+    "fetchOk": {
+      "ok": true,
+      "mimetype": "video/mp4",
+      "len": 194792
+    }
+  },
+  {
+    "file": "lewd.js",
+    "action": "lewd",
+    "fetchOk": {
+      "ok": true,
+      "mimetype": "image/jpeg",
+      "len": 218741
+    }
+  },
+  {
+    "file": "lick.js",
+    "action": "lick",
+    "fetchOk": {
+      "ok": true,
+      "mimetype": "video/mp4",
+      "len": 393570
+    }
+  },
+  {
+    "file": "pat.js",
+    "action": "pat",
+    "fetchOk": {
+      "ok": true,
+      "mimetype": "video/mp4",
+      "len": 142681
+    }
+  },
+  {
+    "file": "poke.js",
+    "action": "poke",
+    "fetchOk": {
+      "ok": true,
+      "mimetype": "video/mp4",
+      "len": 233318
+    }
+  },
+  {
+    "file": "pout.js",
+    "action": "pout",
+    "fetchOk": {
+      "ok": true,
+      "mimetype": "video/mp4",
+      "len": 116701
+    }
+  },
+  {
+    "file": "punch.js",
+    "action": "punch",
+    "fetchOk": {
+      "ok": true,
+      "mimetype": "video/mp4",
+      "len": 458868
+    }
+  },
+  {
+    "file": "sad.js",
+    "action": "sad",
+    "fetchOk": {
+      "ok": false,
+      "error": "fetchGif failed for sad: https://nekos.best/api/v2/search?query=anime%20sad&type=2&category=sad&amount=1 -> 400 Request failed with status code 400 | https://nekos.best/api/v2/sad -> 404 Request failed with status code 404 | https://api.waifu.pics/sfw/sad -> ERR getaddrinfo ENOTFOUND api.waifu.pics | https://api.purrbot.site/v2/img/sfw/sad/gif -> 403 Request failed with status code 403 | https://nekos.life/api/v2/img/sad -> 500 Request failed with status code 500"
+    }
+  },
+  {
+    "file": "shrug.js",
+    "action": "shrug",
+    "fetchOk": {
+      "ok": true,
+      "mimetype": "video/mp4",
+      "len": 127281
+    }
+  },
+  {
+    "file": "slap.js",
+    "action": "slap",
+    "fetchOk": {
+      "ok": true,
+      "mimetype": "video/mp4",
+      "len": 419663
+    }
+  },
+  {
+    "file": "smug.js",
+    "action": "smug",
+    "fetchOk": {
+      "ok": true,
+      "mimetype": "video/mp4",
+      "len": 182484
+    }
+  },
+  {
+    "file": "stare.js",
+    "action": "stare",
+    "fetchOk": {
+      "ok": true,
+      "mimetype": "video/mp4",
+      "len": 55555
+    }
+  },
+  {
+    "file": "tickle.js",
+    "action": "tickle",
+    "fetchOk": {
+      "ok": true,
+      "mimetype": "video/mp4",
+      "len": 428706
+    }
+  },
+  {
+    "file": "wave.js",
+    "action": "wave",
+    "fetchOk": {
+      "ok": true,
+      "mimetype": "video/mp4",
+      "len": 39722
+    }
+  },
+  {
+    "file": "wink.js",
+    "action": "wink",
+    "fetchOk": {
+      "ok": true,
+      "mimetype": "video/mp4",
+      "len": 115774
+    }
+  },
+  {
+    "file": "yeet.js",
+    "action": "yeet",
+    "fetchOk": {
+      "ok": true,
+      "mimetype": "video/mp4",
+      "len": 340518
+    }
+  }
+]

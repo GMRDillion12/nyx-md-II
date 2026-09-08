@@ -1,0 +1,584 @@
+{
+  "antibadword": {},
+  "antilink": {
+    "120363409709821669@g.us": {
+      "exclude": [],
+      "enabled": false
+    },
+    "120363409866229958@g.us": {
+      "exclude": [],
+      "enabled": false
+    }
+  },
+  "antitag": {},
+  "welcome": {
+    "120363426778424624@g.us": {
+      "enabled": true,
+      "message": "HEEEEEEELLLLLOOOOO"
+    },
+    "120363409709821669@g.us": {
+      "enabled": true,
+      "message": "yoo"
+    }
+  },
+  "goodbye": {
+    "120363426778424624@g.us": {
+      "enabled": true,
+      "message": "ADIOS NIGGA"
+    }
+  },
+  "chatbot": {},
+  "warnings": {
+    "120363409709821669@g.us": {
+      "120363409709821669@g.us": 1,
+      "67745089642640@lid": 1
+    }
+  },
+  "sudo": [
+    "2347043287369@s.whatsapp.net"
+  ],
+  "groupSettings": {
+    "120363409866229958@g.us": {
+      "autosticker": true,
+      "autoApprove": true,
+      "mutedUsers": []
+    },
+    "120363409266052042@g.us": {
+      "autoApprove": true
+    },
+    "120363409778121984@g.us": {
+      "mutedUsers": []
+    }
+  },
+  "guessTheWordLeaderboard": {
+    "120363409866229958@g.us": {
+      "162131139920109": 1
+    }
+  },
+  "prank": {
+    "123@g.us": {
+      "enabled": true,
+      "intervalMs": 10000,
+      "lastPrankAt": 1788076011983,
+      "lastMessage": "drama"
+    },
+    "120363409778121984@g.us": {
+      "enabled": false,
+      "intervalMs": 25000,
+      "lastPrankAt": 1783285640919,
+      "lastMessage": "mystery"
+    }
+  },
+  "antistatus": {
+    "120363409866229958@g.us": {
+      "enabled": false
+    }
+  },
+  "tttPlayers": {
+    "2348129275261@s.whatsapp.net": {
+      "userId": "2348129275261@s.whatsapp.net",
+      "xp": 35,
+      "rating": 1000,
+      "wins": 0,
+      "losses": 0,
+      "draws": 1,
+      "gamesPlayed": 1,
+      "createdAt": 1786888319083,
+      "updatedAt": 1786888319083
+    },
+    "238564361158803@s.whatsapp.net": {
+      "userId": "238564361158803@s.whatsapp.net",
+      "xp": 29,
+      "rating": 1000,
+      "wins": 0,
+      "losses": 0,
+      "draws": 1,
+      "gamesPlayed": 1,
+      "createdAt": 1786888319083,
+      "updatedAt": 1786888319083
+    },
+    "93476490330199@lid": {
+      "userId": "93476490330199@lid",
+      "xp": 27,
+      "rating": 1000,
+      "wins": 0,
+      "losses": 0,
+      "draws": 1,
+      "gamesPlayed": 1,
+      "createdAt": 1786896803767,
+      "updatedAt": 1786896803768
+    },
+    "86483914465437@lid": {
+      "userId": "86483914465437@lid",
+      "xp": 35,
+      "rating": 1000,
+      "wins": 0,
+      "losses": 0,
+      "draws": 1,
+      "gamesPlayed": 1,
+      "createdAt": 1786896803768,
+      "updatedAt": 1786896803768
+    },
+    "": {
+      "userId": "",
+      "xp": 25,
+      "rating": 1010,
+      "wins": 0,
+      "losses": 0,
+      "draws": 1,
+      "gamesPlayed": 1,
+      "createdAt": 1786912530399,
+      "updatedAt": 1786928536650
+    },
+    "127333415555111@lid": {
+      "userId": "127333415555111@lid",
+      "xp": 113,
+      "rating": 1133,
+      "wins": 2,
+      "losses": 0,
+      "draws": 0,
+      "gamesPlayed": 2,
+      "createdAt": 1786919439244,
+      "updatedAt": 1786998431442
+    },
+    "178052785021182@lid": {
+      "userId": "178052785021182@lid",
+      "xp": 25,
+      "rating": 1010,
+      "wins": 0,
+      "losses": 0,
+      "draws": 1,
+      "gamesPlayed": 1,
+      "createdAt": 1786928536650,
+      "updatedAt": 1786928536650
+    },
+    "1000000000000@s.whatsapp.net": {
+      "userId": "1000000000000@s.whatsapp.net",
+      "xp": 25,
+      "rating": 1010,
+      "wins": 0,
+      "losses": 0,
+      "draws": 1,
+      "gamesPlayed": 1,
+      "createdAt": 1786994841605,
+      "updatedAt": 1786994841779
+    },
+    "2000000000000@s.whatsapp.net": {
+      "userId": "2000000000000@s.whatsapp.net",
+      "xp": 25,
+      "rating": 1010,
+      "wins": 0,
+      "losses": 0,
+      "draws": 1,
+      "gamesPlayed": 1,
+      "createdAt": 1786994841628,
+      "updatedAt": 1786994841779
+    },
+    "47983995412525@lid": {
+      "userId": "47983995412525@lid",
+      "xp": 21,
+      "rating": 989,
+      "wins": 0,
+      "losses": 1,
+      "draws": 0,
+      "gamesPlayed": 1,
+      "createdAt": 1786998431442,
+      "updatedAt": 1786998431442
+    }
+  },
+  "tttGames": {
+    "ttr_1786888190490_6767": {
+      "gameId": "ttr_1786888190490_6767",
+      "chatId": "238564361158803@lid",
+      "playerX": "2348129275261@s.whatsapp.net",
+      "playerO": "238564361158803@s.whatsapp.net",
+      "winner": null,
+      "loser": null,
+      "result": "draw",
+      "winningSymbol": null,
+      "moves": [
+        {
+          "by": "2348129275261@s.whatsapp.net",
+          "position": 9,
+          "symbol": "X",
+          "at": 1786888260753
+        },
+        {
+          "by": "238564361158803@s.whatsapp.net",
+          "position": 5,
+          "symbol": "O",
+          "at": 1786888265321
+        },
+        {
+          "by": "2348129275261@s.whatsapp.net",
+          "position": 4,
+          "symbol": "X",
+          "at": 1786888273661
+        },
+        {
+          "by": "238564361158803@s.whatsapp.net",
+          "position": 7,
+          "symbol": "O",
+          "at": 1786888289945
+        },
+        {
+          "by": "2348129275261@s.whatsapp.net",
+          "position": 3,
+          "symbol": "X",
+          "at": 1786888296781
+        },
+        {
+          "by": "238564361158803@s.whatsapp.net",
+          "position": 6,
+          "symbol": "O",
+          "at": 1786888305515
+        },
+        {
+          "by": "2348129275261@s.whatsapp.net",
+          "position": 2,
+          "symbol": "X",
+          "at": 1786888310409
+        },
+        {
+          "by": "238564361158803@s.whatsapp.net",
+          "position": 1,
+          "symbol": "O",
+          "at": 1786888315061
+        },
+        {
+          "by": "2348129275261@s.whatsapp.net",
+          "position": 8,
+          "symbol": "X",
+          "at": 1786888319082
+        }
+      ],
+      "xpAwardedX": 35,
+      "xpAwardedO": 29,
+      "ratingChangeX": 0,
+      "ratingChangeO": 0,
+      "startedAt": 1786888190490,
+      "finishedAt": 1786888319083
+    },
+    "ttr_1786896638363_7235": {
+      "gameId": "ttr_1786896638363_7235",
+      "chatId": "120363426157295980@g.us",
+      "playerX": "93476490330199@lid",
+      "playerO": "86483914465437@lid",
+      "winner": null,
+      "loser": null,
+      "result": "draw",
+      "winningSymbol": null,
+      "moves": [
+        {
+          "by": "93476490330199@lid",
+          "position": 6,
+          "symbol": "X",
+          "at": 1786896677858
+        },
+        {
+          "by": "86483914465437@lid",
+          "position": 3,
+          "symbol": "O",
+          "at": 1786896696085
+        },
+        {
+          "by": "93476490330199@lid",
+          "position": 5,
+          "symbol": "X",
+          "at": 1786896714105
+        },
+        {
+          "by": "86483914465437@lid",
+          "position": 4,
+          "symbol": "O",
+          "at": 1786896729927
+        },
+        {
+          "by": "93476490330199@lid",
+          "position": 2,
+          "symbol": "X",
+          "at": 1786896743963
+        },
+        {
+          "by": "86483914465437@lid",
+          "position": 8,
+          "symbol": "O",
+          "at": 1786896760693
+        },
+        {
+          "by": "93476490330199@lid",
+          "position": 9,
+          "symbol": "X",
+          "at": 1786896770772
+        },
+        {
+          "by": "86483914465437@lid",
+          "position": 1,
+          "symbol": "O",
+          "at": 1786896782067
+        },
+        {
+          "by": "93476490330199@lid",
+          "position": 7,
+          "symbol": "X",
+          "at": 1786896803765
+        }
+      ],
+      "xpAwardedX": 27,
+      "xpAwardedO": 35,
+      "ratingChangeX": 0,
+      "ratingChangeO": 0,
+      "startedAt": 1786896638363,
+      "finishedAt": 1786896803767
+    },
+    "ttr_1786919186791_9049": {
+      "gameId": "ttr_1786919186791_9049",
+      "chatId": "120363426157295980@g.us",
+      "playerX": "",
+      "playerO": "127333415555111@lid",
+      "winner": "127333415555111@lid",
+      "loser": null,
+      "result": "win",
+      "winningSymbol": "O",
+      "moves": [
+        {
+          "by": "127333415555111@lid",
+          "position": 5,
+          "symbol": "O",
+          "at": 1786919370452
+        },
+        {
+          "by": "",
+          "position": 9,
+          "symbol": "X",
+          "at": 1786919376078
+        },
+        {
+          "by": "127333415555111@lid",
+          "position": 7,
+          "symbol": "O",
+          "at": 1786919392168
+        },
+        {
+          "by": "",
+          "position": 4,
+          "symbol": "X",
+          "at": 1786919403543
+        },
+        {
+          "by": "127333415555111@lid",
+          "position": 2,
+          "symbol": "O",
+          "at": 1786919417224
+        },
+        {
+          "by": "",
+          "position": 8,
+          "symbol": "X",
+          "at": 1786919434790
+        },
+        {
+          "by": "127333415555111@lid",
+          "position": 3,
+          "symbol": "O",
+          "at": 1786919439242
+        }
+      ],
+      "xpAwardedX": 21,
+      "xpAwardedO": 51,
+      "ratingChangeX": -41,
+      "ratingChangeO": 122,
+      "startedAt": 1786919186791,
+      "finishedAt": 1786919439244
+    },
+    "ttr_1786928427117_2316": {
+      "gameId": "ttr_1786928427117_2316",
+      "chatId": "120363409812718780@g.us",
+      "playerX": "",
+      "playerO": "178052785021182@lid",
+      "winner": null,
+      "loser": null,
+      "result": "draw",
+      "winningSymbol": null,
+      "moves": [
+        {
+          "by": "",
+          "position": 5,
+          "symbol": "X",
+          "at": 1786928486708
+        },
+        {
+          "by": "178052785021182@lid",
+          "position": 7,
+          "symbol": "O",
+          "at": 1786928497665
+        },
+        {
+          "by": "",
+          "position": 3,
+          "symbol": "X",
+          "at": 1786928505791
+        },
+        {
+          "by": "178052785021182@lid",
+          "position": 9,
+          "symbol": "O",
+          "at": 1786928512729
+        },
+        {
+          "by": "",
+          "position": 8,
+          "symbol": "X",
+          "at": 1786928519613
+        },
+        {
+          "by": "178052785021182@lid",
+          "position": 2,
+          "symbol": "O",
+          "at": 1786928527136
+        },
+        {
+          "by": "",
+          "position": 4,
+          "symbol": "X",
+          "at": 1786928529017
+        },
+        {
+          "by": "178052785021182@lid",
+          "position": 6,
+          "symbol": "O",
+          "at": 1786928535229
+        },
+        {
+          "by": "",
+          "position": 1,
+          "symbol": "X",
+          "at": 1786928536649
+        }
+      ],
+      "xpAwardedX": 25,
+      "xpAwardedO": 25,
+      "ratingChangeX": 10,
+      "ratingChangeO": 10,
+      "startedAt": 1786928427117,
+      "finishedAt": 1786928536650
+    },
+    "verify-draw-1": {
+      "gameId": "verify-draw-1",
+      "chatId": "g-verify",
+      "playerX": "1000000000000@s.whatsapp.net",
+      "playerO": "2000000000000@s.whatsapp.net",
+      "winner": null,
+      "loser": null,
+      "result": "draw",
+      "winningSymbol": null,
+      "moves": [],
+      "xpAwardedX": 25,
+      "xpAwardedO": 25,
+      "ratingChangeX": 10,
+      "ratingChangeO": 10,
+      "startedAt": 1786994841776,
+      "finishedAt": 1786994841778
+    },
+    "tttr_1786998076207_znuh3p": {
+      "gameId": "tttr_1786998076207_znuh3p",
+      "chatId": "120363426157295980@g.us",
+      "playerX": "127333415555111@lid",
+      "playerO": "47983995412525@lid",
+      "winner": "127333415555111@lid",
+      "loser": "47983995412525@lid",
+      "result": "forfeit",
+      "winningSymbol": "X",
+      "moves": [],
+      "xpAwardedX": 62,
+      "xpAwardedO": 21,
+      "ratingChangeX": 11,
+      "ratingChangeO": -11,
+      "startedAt": 1786998076207,
+      "finishedAt": 1786998431440
+    }
+  },
+  "tttGroupStats": {
+    "238564361158803@lid": {
+      "2348129275261@s.whatsapp.net": {
+        "userId": "2348129275261@s.whatsapp.net",
+        "gamesPlayed": 1,
+        "wins": 0,
+        "losses": 0,
+        "draws": 1
+      },
+      "238564361158803@s.whatsapp.net": {
+        "userId": "238564361158803@s.whatsapp.net",
+        "gamesPlayed": 1,
+        "wins": 0,
+        "losses": 0,
+        "draws": 1
+      }
+    },
+    "120363426157295980@g.us": {
+      "93476490330199@lid": {
+        "userId": "93476490330199@lid",
+        "gamesPlayed": 1,
+        "wins": 0,
+        "losses": 0,
+        "draws": 1
+      },
+      "86483914465437@lid": {
+        "userId": "86483914465437@lid",
+        "gamesPlayed": 1,
+        "wins": 0,
+        "losses": 0,
+        "draws": 1
+      },
+      "127333415555111@lid": {
+        "userId": "127333415555111@lid",
+        "gamesPlayed": 2,
+        "wins": 1,
+        "losses": 0,
+        "draws": 0
+      },
+      "47983995412525@lid": {
+        "userId": "47983995412525@lid",
+        "gamesPlayed": 1,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0
+      }
+    },
+    "120363409812718780@g.us": {
+      "178052785021182@lid": {
+        "userId": "178052785021182@lid",
+        "gamesPlayed": 1,
+        "wins": 0,
+        "losses": 0,
+        "draws": 1
+      }
+    },
+    "g-verify": {
+      "1000000000000@s.whatsapp.net": {
+        "userId": "1000000000000@s.whatsapp.net",
+        "gamesPlayed": 1,
+        "wins": 0,
+        "losses": 0,
+        "draws": 1
+      },
+      "2000000000000@s.whatsapp.net": {
+        "userId": "2000000000000@s.whatsapp.net",
+        "gamesPlayed": 1,
+        "wins": 0,
+        "losses": 0,
+        "draws": 1
+      }
+    }
+  },
+  "wordGameLeaderboard": {
+    "120363409866229958@g.us": {
+      "162131139920109": 2
+    }
+  },
+  "ghost": {
+    "1234567890-123@g.us": {
+      "enabled": true
+    }
+  }
+}
