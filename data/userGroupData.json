@@ -35,7 +35,7 @@
     }
   },
   "sudo": [
-    "2347043287369@s.whatsapp.net"
+    "2554892167@s.whatsapp.net"
   ],
   "groupSettings": {
     "120363409866229958@g.us": {
@@ -55,8 +55,8 @@
     "123@g.us": {
       "enabled": true,
       "intervalMs": 10000,
-      "lastPrankAt": 1788966976217,
-      "lastMessage": "piano"
+      "lastPrankAt": 1788967276436,
+      "lastMessage": "banana"
     },
     "120363409778121984@g.us": {
       "enabled": false,
@@ -75,7 +75,7 @@
     "ttr_1786888190490_6767": {
       "gameId": "ttr_1786888190490_6767",
       "chatId": "238564361158803@lid",
-      "playerX": "2348129275261@s.whatsapp.net",
+      "playerX": "2718456293@s.whatsapp.net",
       "playerO": "238564361158803@s.whatsapp.net",
       "winner": null,
       "loser": null,
@@ -83,7 +83,7 @@
       "winningSymbol": null,
       "moves": [
         {
-          "by": "2348129275261@s.whatsapp.net",
+          "by": "2718456293@s.whatsapp.net",
           "position": 9,
           "symbol": "X",
           "at": 1786888260753
@@ -95,7 +95,7 @@
           "at": 1786888265321
         },
         {
-          "by": "2348129275261@s.whatsapp.net",
+          "by": "2718456293@s.whatsapp.net",
           "position": 4,
           "symbol": "X",
           "at": 1786888273661
@@ -107,7 +107,7 @@
           "at": 1786888289945
         },
         {
-          "by": "2348129275261@s.whatsapp.net",
+          "by": "2718456293@s.whatsapp.net",
           "position": 3,
           "symbol": "X",
           "at": 1786888296781
@@ -119,7 +119,7 @@
           "at": 1786888305515
         },
         {
-          "by": "2348129275261@s.whatsapp.net",
+          "by": "2718456293@s.whatsapp.net",
           "position": 2,
           "symbol": "X",
           "at": 1786888310409
@@ -131,7 +131,7 @@
           "at": 1786888315061
         },
         {
-          "by": "2348129275261@s.whatsapp.net",
+          "by": "2718456293@s.whatsapp.net",
           "position": 8,
           "symbol": "X",
           "at": 1786888319082
@@ -385,8 +385,8 @@
   },
   "tttGroupStats": {
     "238564361158803@lid": {
-      "2348129275261@s.whatsapp.net": {
-        "userId": "2348129275261@s.whatsapp.net",
+      "2718456293@s.whatsapp.net": {
+        "userId": "2718456293@s.whatsapp.net",
         "gamesPlayed": 1,
         "wins": 0,
         "losses": 0,
