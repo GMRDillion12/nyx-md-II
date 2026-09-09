@@ -102,7 +102,7 @@ async function startNyx() {
 
         if (answer && answer.trim() === "2") {
             usePairingCode = true;
-            let rawNumber = await question("Enter your WhatsApp number (Country code first, NO '+' e.g. 2348012345678): ");
+            let rawNumber = await question("Enter your WhatsApp number (Country code first,then Number without '+' e.g. ): ");
             // This line automatically cleans up any accidental spaces or dashes you type
             phoneNumber = rawNumber ? rawNumber.replace(/[^0-9]/g, '') : '';
         } else {
@@ -299,6 +299,15 @@ async function startNyx() {
 
             // If it's a command, prioritize running the handler for lowest latency.
             if (isCommand) {
+                const chatId = m.chat || m.key?.remoteJid;
+                const commandBody = text.slice(activePrefix.length).trim();
+                const commandName = commandBody.split(/\s+/)[0]?.toLowerCase();
+                const isGhostedCommand = Boolean(chatId?.endsWith('@g.us') && handler.isGhostGroup && handler.isGhostGroup(chatId) && commandName !== 'ghost');
+
+                if (isGhostedCommand) {
+                    return;
+                }
+
                 try {
                     await handler(sock, m, text, config);
                 } catch (err) {
