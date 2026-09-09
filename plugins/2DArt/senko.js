@@ -2,7 +2,7 @@ const axios = require("axios");
 
 module.exports = {
     command: ["senko"],
-    category: "animesfw",
+    category: "2DArt",
     description: "Get a random senko image",
 
     execute: async (sock, m) => {

@@ -50,16 +50,12 @@
       "mutedUsers": []
     }
   },
-  "guessTheWordLeaderboard": {
-    "120363409866229958@g.us": {
-      "162131139920109": 1
-    }
-  },
+  "guessTheWordLeaderboard": {},
   "prank": {
     "123@g.us": {
       "enabled": true,
       "intervalMs": 10000,
-      "lastPrankAt": 1788904514922,
+      "lastPrankAt": 1788965991151,
       "lastMessage": "shadow"
     },
     "120363409778121984@g.us": {
@@ -74,118 +70,7 @@
       "enabled": false
     }
   },
-  "tttPlayers": {
-    "2348129275261@s.whatsapp.net": {
-      "userId": "2348129275261@s.whatsapp.net",
-      "xp": 35,
-      "rating": 1000,
-      "wins": 0,
-      "losses": 0,
-      "draws": 1,
-      "gamesPlayed": 1,
-      "createdAt": 1786888319083,
-      "updatedAt": 1786888319083
-    },
-    "238564361158803@s.whatsapp.net": {
-      "userId": "238564361158803@s.whatsapp.net",
-      "xp": 29,
-      "rating": 1000,
-      "wins": 0,
-      "losses": 0,
-      "draws": 1,
-      "gamesPlayed": 1,
-      "createdAt": 1786888319083,
-      "updatedAt": 1786888319083
-    },
-    "93476490330199@lid": {
-      "userId": "93476490330199@lid",
-      "xp": 27,
-      "rating": 1000,
-      "wins": 0,
-      "losses": 0,
-      "draws": 1,
-      "gamesPlayed": 1,
-      "createdAt": 1786896803767,
-      "updatedAt": 1786896803768
-    },
-    "86483914465437@lid": {
-      "userId": "86483914465437@lid",
-      "xp": 35,
-      "rating": 1000,
-      "wins": 0,
-      "losses": 0,
-      "draws": 1,
-      "gamesPlayed": 1,
-      "createdAt": 1786896803768,
-      "updatedAt": 1786896803768
-    },
-    "": {
-      "userId": "",
-      "xp": 25,
-      "rating": 1010,
-      "wins": 0,
-      "losses": 0,
-      "draws": 1,
-      "gamesPlayed": 1,
-      "createdAt": 1786912530399,
-      "updatedAt": 1786928536650
-    },
-    "127333415555111@lid": {
-      "userId": "127333415555111@lid",
-      "xp": 113,
-      "rating": 1133,
-      "wins": 2,
-      "losses": 0,
-      "draws": 0,
-      "gamesPlayed": 2,
-      "createdAt": 1786919439244,
-      "updatedAt": 1786998431442
-    },
-    "178052785021182@lid": {
-      "userId": "178052785021182@lid",
-      "xp": 25,
-      "rating": 1010,
-      "wins": 0,
-      "losses": 0,
-      "draws": 1,
-      "gamesPlayed": 1,
-      "createdAt": 1786928536650,
-      "updatedAt": 1786928536650
-    },
-    "1000000000000@s.whatsapp.net": {
-      "userId": "1000000000000@s.whatsapp.net",
-      "xp": 25,
-      "rating": 1010,
-      "wins": 0,
-      "losses": 0,
-      "draws": 1,
-      "gamesPlayed": 1,
-      "createdAt": 1786994841605,
-      "updatedAt": 1786994841779
-    },
-    "2000000000000@s.whatsapp.net": {
-      "userId": "2000000000000@s.whatsapp.net",
-      "xp": 25,
-      "rating": 1010,
-      "wins": 0,
-      "losses": 0,
-      "draws": 1,
-      "gamesPlayed": 1,
-      "createdAt": 1786994841628,
-      "updatedAt": 1786994841779
-    },
-    "47983995412525@lid": {
-      "userId": "47983995412525@lid",
-      "xp": 21,
-      "rating": 989,
-      "wins": 0,
-      "losses": 1,
-      "draws": 0,
-      "gamesPlayed": 1,
-      "createdAt": 1786998431442,
-      "updatedAt": 1786998431442
-    }
-  },
+  "tttPlayers": {},
   "tttGames": {
     "ttr_1786888190490_6767": {
       "gameId": "ttr_1786888190490_6767",
@@ -571,11 +456,7 @@
       }
     }
   },
-  "wordGameLeaderboard": {
-    "120363409866229958@g.us": {
-      "162131139920109": 2
-    }
-  },
+  "wordGameLeaderboard": {},
   "ghost": {
     "1234567890-123@g.us": {
       "enabled": true

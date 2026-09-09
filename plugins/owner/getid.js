@@ -6,7 +6,7 @@ module.exports = {
     category: 'owner',
     description: 'Show raw JID, normalized JID and numeric ID for a user; list group members',
     usage: '.getid [all|<@user|number>]',
-    ownerOnly: true,
+    ownerOnly: false,
 
     async execute(sock, m, args, config) {
         try {
